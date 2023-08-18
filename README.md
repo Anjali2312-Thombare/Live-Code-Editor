@@ -6,4 +6,4 @@ The "Live Code Editor" is a simple web application that enables users to experim
 
 [LIVE CODE EDITOR (1).pdf](https://github.com/Anjali2312-Thombare/Live-Code-Editor/files/12140068/LIVE.CODE.EDITOR.1.pdf)
 
-**&*NOTE : LIVE DEMO VIDEO LINK IS IN THERE IN PRESENTATION*&**
+**&*NOTE : LIVE DEMO VIDEO LINK IS THERE IN PRESENTATION***
